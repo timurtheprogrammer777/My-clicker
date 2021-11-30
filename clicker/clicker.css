@@ -1,0 +1,19 @@
+body{
+background-color: black;
+color: #fff;
+font-size: 30px;
+}
+button{
+    
+    display: flex;
+    padding: 50px;
+    text-transform: uppercase;
+    font-weight: 600;
+    
+}
+.container{
+    max-width: 200px;
+    max-height: 200px;
+    margin: 0 auto;
+    
+}
